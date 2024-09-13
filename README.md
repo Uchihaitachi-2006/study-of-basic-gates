@@ -93,5 +93,5 @@ endmodule
 
 **Result:**
 
-STUDY OF TRUTH TABLE OF THE LOGIC GATES IN QUARTUS ||  USING VERILOG PROGRAMMING WAS SUCCESFULLY COMPLETED
+study of truth table of the logicgates in quartus || using verilog programming was verified succesfully
 
